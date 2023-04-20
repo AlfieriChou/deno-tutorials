@@ -1,0 +1,5 @@
+test: toto
+foo:
+  bar: True
+  baz: 1
+  qux: ~qqqqq
